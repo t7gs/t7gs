@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/tiagofrocha//)](https://www.linkedin.com/in/tiagofrocha/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tiago_FRocha)](https://twitter.com/Tiago_FRocha)
 
-Meu nome é Tiago, backend, frontend and mobile developer apaixonado por desenvolvimento de software, segurança da informação e o mundo open source.
+Meu nome é Tiago, fullstack developer apaixonado por desenvolvimento de software, segurança da informação e o mundo open source.
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t7gs&layout=compact&langs_count=7&theme=algolia"/>
